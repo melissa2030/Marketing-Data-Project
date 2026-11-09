@@ -21,7 +21,7 @@ This project answers 10 business questions using SQL:
 
 ## 🔗 Connect With Me
 
-📁 **Portfolio:** [[your-portfolio-link-here](https://github.com/melissa2030/Marketing-Data-Project)]  
+📁 **Portfolio:** [(https://github.com/melissa2030/Marketing-Data-Project)]  
 💼 **LinkedIn:**  
 📧 **Email:** [mel.khinmarlaraye@gmail.com]
 ------
